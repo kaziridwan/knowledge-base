@@ -8,7 +8,7 @@ Please refer to the wiki for further details
 - [Web](https://github.com/kaziridwan/knowledgebase/wiki/Web-Development)
  * [Backend]()
    * [PHP]()
-     * [Laravel]()
+     * [Laravel](https://github.com/kaziridwan/knowledgebase/wiki/Laravel)
 - [Mobile]()
 - [Game Development]()
 - [Tools](https://github.com/kaziridwan/knowledgebase/wiki/Tools-and-Tips)
